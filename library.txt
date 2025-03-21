@@ -1,0 +1,9 @@
+[
+    {
+        "title": "harry potter and the sorcerer's stone",
+        "author": "j.k rowling",
+        "year": "1997",
+        "genre": "fantasy, adventure",
+        "read": true
+    }
+]
