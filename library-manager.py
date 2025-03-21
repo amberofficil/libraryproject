@@ -80,7 +80,7 @@ def display_statistics(library):
 def main():
     library = load_library()
     while True:
-        print("\nWelcome to the Wasay Library Manager")
+        print("\nWelcome to the Amber Library Manager")
         print("Menu")
         print("1. Add a book")
         print("2. Remove a book")
